@@ -15,9 +15,9 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1617357516,,"wq"
+|2,0,1617357842,,"wq"
 :q!
-|2,0,1617357336,,"q!"
+|2,0,1617357635,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -30,36 +30,84 @@ $
 # Registers:
 
 # File marks:
-'0  33  34  ~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
-|4,48,33,34,1617357516,"~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java"
-'1  1  0  ~/spring-petclinic/mvnw
-|4,49,1,0,1617357336,"~/spring-petclinic/mvnw"
-'2  1  0  ~/spring-petclinic/readme.md
-|4,50,1,0,1617357309,"~/spring-petclinic/readme.md"
-'3  373  0  ~/spring-petclinic/pom.xml
-|4,51,373,0,1617357289,"~/spring-petclinic/pom.xml"
-'4  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,52,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
-'5  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,53,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
-'6  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,54,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
-'7  6  52  ~/java-app/HelloWorld.java
-|4,55,6,52,1617211467,"~/java-app/HelloWorld.java"
-'8  6  0  ~/java-app/HelloWorld.java
-|4,56,6,0,1617211298,"~/java-app/HelloWorld.java"
-'9  5  59  ~/java-app/HelloWorld.java
-|4,57,5,59,1617210826,"~/java-app/HelloWorld.java"
+'0  33  42  ~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
+|4,48,33,42,1617357842,"~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java"
+'1  1  0  ~/PetClinicApplication.java
+|4,49,1,0,1617357635,"~/PetClinicApplication.java"
+'2  33  34  ~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
+|4,50,33,34,1617357516,"~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java"
+'3  1  0  ~/spring-petclinic/mvnw
+|4,51,1,0,1617357336,"~/spring-petclinic/mvnw"
+'4  1  0  ~/spring-petclinic/readme.md
+|4,52,1,0,1617357309,"~/spring-petclinic/readme.md"
+'5  373  0  ~/spring-petclinic/pom.xml
+|4,53,373,0,1617357289,"~/spring-petclinic/pom.xml"
+'6  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
+|4,54,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
+'7  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
+|4,55,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
+'8  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
+|4,56,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
+'9  6  52  ~/java-app/HelloWorld.java
+|4,57,6,52,1617211467,"~/java-app/HelloWorld.java"
 
 # Jumplist (newest first):
+-'  33  42  ~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
+|4,39,33,42,1617357842,"~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java"
+-'  1  0  ~/PetClinicApplication.java
+|4,39,1,0,1617357635,"~/PetClinicApplication.java"
+-'  1  0  ~/PetClinicApplication.java
+|4,39,1,0,1617357635,"~/PetClinicApplication.java"
 -'  33  34  ~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
 |4,39,33,34,1617357516,"~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java"
+-'  33  34  ~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
+|4,39,33,34,1617357516,"~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java"
+-'  1  0  ~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
+|4,39,1,0,1617357451,"~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java"
+-'  1  0  ~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
+|4,39,1,0,1617357451,"~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java"
 -'  1  0  ~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
 |4,39,1,0,1617357451,"~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java"
 -'  1  0  ~/spring-petclinic/mvnw
 |4,39,1,0,1617357336,"~/spring-petclinic/mvnw"
 -'  1  0  ~/spring-petclinic/mvnw
 |4,39,1,0,1617357336,"~/spring-petclinic/mvnw"
+-'  1  0  ~/spring-petclinic/mvnw
+|4,39,1,0,1617357336,"~/spring-petclinic/mvnw"
+-'  1  0  ~/spring-petclinic/mvnw
+|4,39,1,0,1617357336,"~/spring-petclinic/mvnw"
+-'  1  0  ~/spring-petclinic/mvnw
+|4,39,1,0,1617357336,"~/spring-petclinic/mvnw"
+-'  1  0  ~/spring-petclinic/mvnw
+|4,39,1,0,1617357336,"~/spring-petclinic/mvnw"
+-'  1  0  ~/spring-petclinic/mvnw
+|4,39,1,0,1617357336,"~/spring-petclinic/mvnw"
+-'  1  0  ~/spring-petclinic/mvnw
+|4,39,1,0,1617357336,"~/spring-petclinic/mvnw"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
+-'  1  0  ~/spring-petclinic/readme.md
+|4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
 -'  1  0  ~/spring-petclinic/readme.md
 |4,39,1,0,1617357309,"~/spring-petclinic/readme.md"
 -'  1  0  ~/spring-petclinic/readme.md
@@ -84,6 +132,102 @@ $
 |4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
 -'  373  0  ~/spring-petclinic/pom.xml
 |4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  373  0  ~/spring-petclinic/pom.xml
+|4,39,373,0,1617357289,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
+-'  1  0  ~/spring-petclinic/pom.xml
+|4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
 -'  1  0  ~/spring-petclinic/pom.xml
 |4,39,1,0,1617357207,"~/spring-petclinic/pom.xml"
 -'  1  0  ~/spring-petclinic/pom.xml
@@ -108,159 +252,19 @@ $
 |4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
 -'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
 |4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  16  39  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,16,39,1617348055,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617348030,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  1  0  ~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java
-|4,39,1,0,1617347663,"~/spring3-mvc-maven-xml-hello-world/src/main/java/com/mkyong/web/controller/HelloController.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
--'  6  52  ~/java-app/HelloWorld.java
-|4,39,6,52,1617211467,"~/java-app/HelloWorld.java"
 
 # History of marks within files (newest to oldest):
 
 > ~/spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
-	*	1617357514	0
-	"	33	34
-	^	33	35
-	.	33	34
-	+	33	34
+	*	1617357840	0
+	"	33	42
+	^	33	43
+	.	33	42
+	+	33	42
+
+> ~/PetClinicApplication.java
+	*	1617357628	0
+	"	1	0
 
 > ~/spring-petclinic/mvnw
 	*	1617357334	0
