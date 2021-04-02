@@ -167,3 +167,77 @@ git remote -v
 git remote add origin https://github.com/anandreddy79/my-app.git
 git remote -v
 git push origin master
+mvn --version
+git clone https://github.com/anandreddy79/spring3-mvc-maven-xml-hello-world.git
+ls -ltr
+cd  spring3-mvc-maven-xml-hello-world
+ls -ltr
+tree
+cd src/main/java/com/mkyong/web/controller/
+ls -ltr
+javac HelloController.java
+vi HelloController.java
+tree
+cd
+git status
+git add .
+git status
+git rm --cached <file>...git
+git status
+git commit -m "spring added"
+git push origin master
+git checkout
+git status
+ls -ltr
+cd spring3-mvc-maven-xml-hello-world
+git status
+git add .
+git status
+ls -ltr
+cd src
+ls -ltr
+cd main
+ls -ltr
+cd java
+ls -ltr
+git com
+cd com
+ls -ltr
+cd mkyong
+ls -ltr
+cd web
+ls -ltr
+cd controller
+ls -ltr
+vi HelloController.java
+git status
+git add .
+git commit -m "gg"
+git push origin master
+cd
+ls -ltr
+git status
+git push origin master
+git add .
+git status
+git commit -m "ff"
+git push origin master
+git remote -v
+git remote add origin https://github.com/anandreddy79/spring3-mvc-maven-xml-world.git
+git remote -v
+git push origin master
+git clone https://github.com/anandreddy79/spring3-mvc-maven-xml-hello-world.git
+git clone https://github.com/anandreddy79/spring-petclinic.git
+git status
+git add .
+git commit -m "clinic"
+git push origin master
+git staqtus
+git status
+ls -ltr
+cd spring-petclinic
+ls -ltr
+tree
+cd
+ls -ltr
+cd
