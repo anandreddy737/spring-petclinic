@@ -241,3 +241,24 @@ tree
 cd
 ls -ltr
 cd
+git clone https://github.com/anandreddy79/game-of-life.git
+ls -ltr
+git status
+git add .
+git commit -m "dd"
+git push origin master
+git clone https://github.com/anandreddy79/spring-petclinic.git
+ls -ltr
+rm -rf spring-petclinic
+ls -ltr
+git clone https://github.com/anandreddy79/spring-petclinic.git
+ls -ltr
+git status
+git clone https://github.com/anandreddy79/spring-petclinic.git
+git remote reset-https://github.com/anandreddy737/spring-petclinic.git
+git remote set-url origin https://github.com/anandreddy737/spring-petclinic.git
+git status
+rm -rf spring-petclinic
+ls -ltr
+git clone https://github.com/anandreddy737/spring-petclinic.git
+git status
